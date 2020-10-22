@@ -1,5 +1,5 @@
 # hello-world
-this is my first test repository
-hier ga ik wat doen
+this is my seond test repository
+
 #de tweede
 ennog wat
